@@ -1,4 +1,14 @@
-# 🏢 EmaarTech Building - Emlak Sitesi
+# 🏢 EmaarTech Building
+
+
+## 🎬 Önizleme GIF'i 
+
+Projenin tanıtımı için GIF'i 
+
+![EkranKayd2025-06-23210146-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1c2a7600-a1b6-4a7c-83bc-eab0f7b0e99c)
+
+
+
 
 EmaarTech Building, modern tasarım anlayışıyla geliştirilen, HTML, CSS ve Bootstrap tabanlı, tamamen responsive bir emlak sitesi şablonudur. Kullanıcı dostu arayüzü ile gayrimenkul ilanlarının profesyonel şekilde sergilenmesini sağlar.
 
@@ -21,12 +31,3 @@ EmaarTech Building, modern tasarım anlayışıyla geliştirilen, HTML, CSS ve B
 | Bootstrap
 
    
----
-
-## 🎬 Önizleme GIF'i 
-
-Projenin tanıtımı için GIF'i 
-
-![EkranKayd2025-06-23210146-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1c2a7600-a1b6-4a7c-83bc-eab0f7b0e99c)
-
-
